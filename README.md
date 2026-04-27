@@ -4,7 +4,7 @@
 
 ### [Chia Hsieh](https://chiahsieheeb.wixsite.com/chiahsieh), [Evan C. Fricke](https://www.evanfricke.com), [Wei-Hao Lee](https://sites.google.com/view/wei-haolee/home), [Daniel Gorczynski](https://danielgorczynski.weebly.com), and [Lydia Beaudrot](https://lydiabeaudrot.weebly.com)
 
-[!Important] 
+[!IMPORTANT] 
 ### Latest version of Data and Code DOI: [https://doi.org/10.5281/zenodo.17821933](https://doi.org/10.5281/zenodo.17821933)
 
 ### Please contact the corresponding author, Chia Hsieh (hsiehch@msu.edu or chiahsieheeb@gmail.com), for questions about the code or data.
